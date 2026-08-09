@@ -1,0 +1,518 @@
+Java Basics - Set 1 created.
+20 questions added to Exam ID 1
+OOP Concepts - Set 2 created.
+20 questions added to Exam ID 2
+JDBC and SQL - Set 3 created.
+20 questions added to Exam ID 3
+Advanced Java - Set 4 created.
+20 questions added to Exam ID 4
+Java Mixed - Set 5 created.
+20 questions added to Exam ID 5
+Tables created successfully.
+
+=================================
+     ONLINE EXAMINATION SYSTEM
+=================================
+1. Student
+2. Teacher
+3. Exit
+Enter choice : 1
+
+========== STUDENT ==========
+1. Register
+2. Login
+3. Back
+Enter choice : 2
+
+========== STUDENT LOGIN ==========
+Enter email : deepakmeti@gmail.com
+Enter password : 456328
+
+Login successful.
+Welcome deepak
+
+========== STUDENT MENU ==========
+1. View Exams
+2. Take Exam
+3. View My Results
+4. Logout
+Enter choice : 2
+
+========== EXAM LIST ==========
+Exam ID      : 1
+Exam Title   : Java Basics - Set 1
+Teacher      : teacher
+--------------------------------
+Exam ID      : 2
+Exam Title   : OOP Concepts - Set 2
+Teacher      : teacher
+--------------------------------
+Exam ID      : 3
+Exam Title   : JDBC and SQL - Set 3
+Teacher      : teacher
+--------------------------------
+Exam ID      : 4
+Exam Title   : Advanced Java - Set 4
+Teacher      : teacher
+--------------------------------
+Exam ID      : 5
+Exam Title   : Java Mixed - Set 5
+Teacher      : teacher
+--------------------------------
+Enter Exam ID : 1
+
+========== START EXAM ==========
+
+Question 1
+Which keyword is used to create a class?
+A. class
+B. new
+C. object
+D. create
+Your answer : 1
+Invalid option. Enter A, B, C or D : a
+
+Question 2
+Which method is the starting point of a Java program?
+A. start()
+B. main()
+C. run()
+D. begin()
+Your answer : b
+
+Question 3
+Which data type stores true or false?
+A. int
+B. boolean
+C. char
+D. float
+Your answer : c
+
+Question 4
+Which symbol is used to end a Java statement?
+A. .
+B. :
+C. ;
+D. ,
+Your answer : d
+
+Question 5
+Which keyword creates an object?
+A. new
+B. create
+C. object
+D. make
+Your answer : a
+
+Question 6
+Which type stores a single character?
+A. String
+B. char
+C. Character
+D. text
+Your answer : b
+
+Question 7
+Which type stores decimal numbers?
+A. int
+B. boolean
+C. double
+D. char
+Your answer : c
+
+Question 8
+Which operator is used for addition?
+A. +
+B. -
+C. *
+D. /
+Your answer : d
+
+Question 9
+Which operator checks equality?
+A. =
+B. ==
+C. !=
+D. =>
+Your answer : a
+
+Question 10
+Which keyword is used to return a value?
+A. send
+B. return
+C. value
+D. get
+Your answer : b
+
+Question 11
+Which loop executes at least once?
+A. for
+B. while
+C. do-while
+D. foreach
+Your answer : c
+
+Question 12
+Which keyword is used for a constant?
+A. constant
+B. final
+C. static
+D. fixed
+Your answer : d
+
+Question 13
+Which class is used to read keyboard input?
+A. Scanner
+B. Reader
+C. Input
+D. Keyboard
+Your answer : a
+
+Question 14
+Which package contains Scanner?
+A. java.io
+B. java.util
+C. java.sql
+D. java.lang
+Your answer : b
+
+Question 15
+Which method prints output?
+A. System.out.println()
+B. System.print()
+C. Console.write()
+D. print.out()
+Your answer : c
+
+Question 16
+Which keyword is used for inheritance?
+A. inherit
+B. extends
+C. implements
+D. super
+Your answer : d
+
+Question 17
+Which keyword refers to the current object?
+A. self
+B. current
+C. this
+D. object
+Your answer : a
+
+Question 18
+Which keyword refers to the parent class?
+A. parent
+B. base
+C. super
+D. this
+Your answer : b
+
+Question 19
+Which collection stores elements in order?
+A. Set
+B. List
+C. Map
+D. Tree
+Your answer : c
+
+Question 20
+Which collection does not allow duplicates?
+A. List
+B. ArrayList
+C. Set
+D. Vector
+Your answer : d
+
+========== RESULT ==========
+Score : 9/20
+Grade : F
+Result saved successfully.
+
+========== STUDENT MENU ==========
+1. View Exams
+2. Take Exam
+3. View My Results
+4. Logout
+Enter choice : 1
+
+========== EXAM LIST ==========
+Exam ID      : 1
+Exam Title   : Java Basics - Set 1
+Teacher      : teacher
+--------------------------------
+Exam ID      : 2
+Exam Title   : OOP Concepts - Set 2
+Teacher      : teacher
+--------------------------------
+Exam ID      : 3
+Exam Title   : JDBC and SQL - Set 3
+Teacher      : teacher
+--------------------------------
+Exam ID      : 4
+Exam Title   : Advanced Java - Set 4
+Teacher      : teacher
+--------------------------------
+Exam ID      : 5
+Exam Title   : Java Mixed - Set 5
+Teacher      : teacher
+--------------------------------
+
+========== STUDENT MENU ==========
+1. View Exams
+2. Take Exam
+3. View My Results
+4. Logout
+Enter choice : 3
+
+========== MY RESULTS ==========
+Student : deepak
+Exam : Java Basics - Set 1
+Score : 9/20
+Grade : F
+--------------------------------
+
+========== STUDENT MENU ==========
+1. View Exams
+2. Take Exam
+3. View My Results
+4. Logout
+Enter choice : 4
+
+========== STUDENT ==========
+1. Register
+2. Login
+3. Back
+Enter choice : 1
+
+========== STUDENT REGISTRATION ==========
+Enter name : meti
+Enter email : meti@gmail.com
+Enter password : 123456
+Student registered successfully.
+
+========== STUDENT ==========
+1. Register
+2. Login
+3. Back
+Enter choice : 3
+
+=================================
+     ONLINE EXAMINATION SYSTEM
+=================================
+1. Student
+2. Teacher
+3. Exit
+Enter choice : 2
+
+========== TEACHER LOGIN ==========
+Username : teacher
+Password : teacher123
+Teacher login successful.
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 1
+
+========== CREATE EXAM ==========
+Enter exam title : 1
+Exam created successfully.
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 2
+
+========== EXAM LIST ==========
+Exam ID      : 1
+Exam Title   : Java Basics - Set 1
+Teacher      : teacher
+--------------------------------
+Exam ID      : 2
+Exam Title   : OOP Concepts - Set 2
+Teacher      : teacher
+--------------------------------
+Exam ID      : 3
+Exam Title   : JDBC and SQL - Set 3
+Teacher      : teacher
+--------------------------------
+Exam ID      : 4
+Exam Title   : Advanced Java - Set 4
+Teacher      : teacher
+--------------------------------
+Exam ID      : 5
+Exam Title   : Java Mixed - Set 5
+Teacher      : teacher
+--------------------------------
+Exam ID      : 6
+Exam Title   : 1
+Teacher      : teacher
+--------------------------------
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 10
+
+========== RESULT STATISTICS ==========
+Total Results : 1
+Average Score : 9.00
+Highest Score : 9
+Lowest Score : 9
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 9
+
+========== ALL RESULTS ==========
+
+Result ID : 1
+Student : deepak
+Exam : Java Basics - Set 1
+Score : 9/20
+Grade : F
+--------------------------------
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 5
+
+========== ADD QUESTION ==========
+
+========== EXAM LIST ==========
+Exam ID      : 1
+Exam Title   : Java Basics - Set 1
+Teacher      : teacher
+--------------------------------
+Exam ID      : 2
+Exam Title   : OOP Concepts - Set 2
+Teacher      : teacher
+--------------------------------
+Exam ID      : 3
+Exam Title   : JDBC and SQL - Set 3
+Teacher      : teacher
+--------------------------------
+Exam ID      : 4
+Exam Title   : Advanced Java - Set 4
+Teacher      : teacher
+--------------------------------
+Exam ID      : 5
+Exam Title   : Java Mixed - Set 5
+Teacher      : teacher
+--------------------------------
+Exam ID      : 6
+Exam Title   : 1
+Teacher      : teacher
+--------------------------------
+Enter Exam ID : 6
+Enter question : Which keyword is used to create a class?
+Enter option A : class
+Enter option B : new
+Enter option C : object
+Enter option D : create
+Enter correct option (A/B/C/D) : a
+Question added successfully.
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 4
+
+========== EXAM LIST ==========
+Exam ID      : 1
+Exam Title   : Java Basics - Set 1
+Teacher      : teacher
+--------------------------------
+Exam ID      : 2
+Exam Title   : OOP Concepts - Set 2
+Teacher      : teacher
+--------------------------------
+Exam ID      : 3
+Exam Title   : JDBC and SQL - Set 3
+Teacher      : teacher
+--------------------------------
+Exam ID      : 4
+Exam Title   : Advanced Java - Set 4
+Teacher      : teacher
+--------------------------------
+Exam ID      : 5
+Exam Title   : Java Mixed - Set 5
+Teacher      : teacher
+--------------------------------
+Exam ID      : 6
+Exam Title   : 1
+Teacher      : teacher
+--------------------------------
+Enter Exam ID : 6
+Exam deleted successfully.
+
+========== TEACHER MENU ==========
+1. Create Exam
+2. View Exams
+3. Update Exam
+4. Delete Exam
+5. Add Question
+6. View Questions
+7. Update Question
+8. Delete Question
+9. View All Results
+10. Result Statistics
+11. Logout
+Enter choice : 
